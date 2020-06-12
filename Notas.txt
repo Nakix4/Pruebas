@@ -1,0 +1,5 @@
+.git add es para añadir un archivo al proximo commmit
+.git checkout es para volver a una versión antigua
+.git branch para cambiar entre las diferentes versiones
+un archivo llamado .gitignore hace que esos archivos sean ignorados en los commmit
+.git commit es para crear un punto de guardado
